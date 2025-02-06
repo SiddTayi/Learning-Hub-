@@ -1,6 +1,7 @@
-#Learning Hub 🚀
+# Learning Hub 🚀
 
-A curated collection of hands-on tutorials, code snippets, and learning resources covering data science, machine learning, and software development. This repository documents my learning journey and serves as a reference for others exploring these fields.
+A curated collection of hands-on tutorials, code snippets, and learning resources covering data science, and machine learning. This repository documents my learning journey and serves as a reference for others exploring these fields.
+
 What's Inside
 
 Step-by-step tutorials
